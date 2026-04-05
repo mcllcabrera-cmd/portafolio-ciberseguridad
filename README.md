@@ -14,6 +14,8 @@ Soy estudiante de ciberseguridad con conocimientos básicos en Linux, Python y r
 ---
 
 ## 🐍 Python (Básico)
+### 🐍 Script: Verificador de Contraseña
+Script básico en Python que evalúa la longitud de una contraseña usando estructuras condicionales (if–else).
 - Scripts simples  
 - Uso de if–else  
 - Automatización básica  
